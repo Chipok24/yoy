@@ -1,0 +1,14 @@
+E:\Python\Code\курс\yoy\bin\Debug\net9.0\yoy.exe
+E:\Python\Code\курс\yoy\bin\Debug\net9.0\yoy.deps.json
+E:\Python\Code\курс\yoy\bin\Debug\net9.0\yoy.runtimeconfig.json
+E:\Python\Code\курс\yoy\bin\Debug\net9.0\yoy.dll
+E:\Python\Code\курс\yoy\bin\Debug\net9.0\yoy.pdb
+E:\Python\Code\курс\yoy\obj\Debug\net9.0\yoy.GeneratedMSBuildEditorConfig.editorconfig
+E:\Python\Code\курс\yoy\obj\Debug\net9.0\yoy.AssemblyInfoInputs.cache
+E:\Python\Code\курс\yoy\obj\Debug\net9.0\yoy.AssemblyInfo.cs
+E:\Python\Code\курс\yoy\obj\Debug\net9.0\yoy.csproj.CoreCompileInputs.cache
+E:\Python\Code\курс\yoy\obj\Debug\net9.0\yoy.dll
+E:\Python\Code\курс\yoy\obj\Debug\net9.0\refint\yoy.dll
+E:\Python\Code\курс\yoy\obj\Debug\net9.0\yoy.pdb
+E:\Python\Code\курс\yoy\obj\Debug\net9.0\yoy.genruntimeconfig.cache
+E:\Python\Code\курс\yoy\obj\Debug\net9.0\ref\yoy.dll
